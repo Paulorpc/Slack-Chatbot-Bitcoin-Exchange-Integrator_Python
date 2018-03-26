@@ -5,14 +5,14 @@ This primary version was built to work with Bitcoin, connecting to Mercado Bitco
 
 In Config.py file, set this variables with your user's setting.
 
-## MERCADO BITCOIN WS API
+#### MERCADO BITCOIN WS API
 MB_TAPI_ID
 MB_TAPI_SECRET
 
-## TOKEN DE USUARIO PRINCIPAL MERCADO BITCOIN E SLACK
+#### TOKEN DE USUARIO PRINCIPAL MERCADO BITCOIN E SLACK
 __SLACK_TOKEN_CONEXAO
 __SLACK_TOKEN_MEMBER
 
-## TOKEN DO BOT SLACK
+#### TOKEN DO BOT SLACK
 __SLACK_TOKEN_CONEXAO
 __SLACK_TOKEN_MEMBER
