@@ -9,13 +9,18 @@ To concentrate our force in the bot strategy to send requested data from the exc
 
 ## Config.py setup variables.
 #### Exchange Web Service API user connection - Mercado Bitcoin
-- MB_TAPI_ID
-- MB_TAPI_SECRET
-
+```
+MB_TAPI_ID
+MB_TAPI_SECRET
+```
 #### Main user's tokens from Mercado Bitcoin and Slack
-- __SLACK_TOKEN_CONEXAO
-- __SLACK_TOKEN_MEMBER
+```
+__SLACK_TOKEN_CONEXAO
+__SLACK_TOKEN_MEMBER
+```
 
 #### Slacks's chabot user Token
-- __SLACK_TOKEN_CONEXAO
-- __SLACK_TOKEN_MEMBER
+```
+__SLACK_TOKEN_CONEXAO
+__SLACK_TOKEN_MEMBER
+```
