@@ -7,7 +7,7 @@ To concentrate our force in the bot strategy to send requested data from the exc
 
 > To get more information about the __slackclient for python__, see **README.md** into python-slackclient folder.
 
-##In **Config.py file**, set this variables with your user's setting.
+## Config.py setup variables.
 #### Exchange Web Service API user connection - Mercado Bitcoin
 - MB_TAPI_ID
 - MB_TAPI_SECRET
