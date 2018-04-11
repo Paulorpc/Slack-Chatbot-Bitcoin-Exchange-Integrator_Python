@@ -43,13 +43,13 @@ class Config:
 
 
     #SLACK WS
-    # TOKEN DE USUARIO PRINCIPAL MERCADO BITCOIN E SLACK
-    __SLACK_TOKEN_CONEXAO = ""
+    # TOKEN DE USUARIO PRINCIPAL
+    __SLACK_TOKEN_CONEXAO = "" #Authentication RTM API / Use Legacy token generator to generate token
     __SLACK_TOKEN_MEMBER = ""
     MAIN_USER = Usuario("Paulo Cezar", "paulorpc@gmail.com", __SLACK_TOKEN_MEMBER, __SLACK_TOKEN_CONEXAO)
 
     # TOKEN DO BOT SLACK
-    __SLACK_TOKEN_CONEXAO = ""
+    __SLACK_TOKEN_CONEXAO = "" #Slack API Token
     __SLACK_TOKEN_MEMBER = ""
     BOT_USER = Usuario("bbot", "paulorpc@gmail.com", __SLACK_TOKEN_MEMBER, __SLACK_TOKEN_CONEXAO)
     BOT_USER.addCanal("#btcbot")
