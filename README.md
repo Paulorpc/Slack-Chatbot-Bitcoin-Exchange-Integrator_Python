@@ -29,3 +29,10 @@ To generate your _Slack API Token*_, go to the [bot manager custom integration](
 __SLACK_TOKEN_CONEXAO*
 __SLACK_TOKEN_MEMBER
 ```
+
+#### Slacks' chabot Channels
+Don't forget to invite your bot into your channels :smile:
+```
+MAIN_CHANNEL = "#info_channel"
+DEBUG_CHANNEL = "#debug_channel"
+```
